@@ -1,0 +1,1 @@
+This is Arland's first git project. This is going to be awesome!
